@@ -14,6 +14,8 @@
 
 This project presents a comprehensive sales analysis for Scotch Pizza, a popular pizza chain with branches in four major U.S. cities. The analysis aims to uncover performance trends across branches, pizza preferences, peak ordering times, and customer behavior—ultimately helping the business make data-informed decisions to improve revenue and customer satisfaction.
 
+![D
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "original dataset.csv", containing detailed information abput each sale made in the company.
 
