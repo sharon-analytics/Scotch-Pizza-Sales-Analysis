@@ -77,4 +77,10 @@ In the initial phase, I prepped the data by:
   - Offer **combo deals** for **Small** and **Medium** pizzas to attract solo diners or smaller groups.
   - Promote **XL** and **XXL** sizes for **parties/events** where customers are more likely to spend more.
 
+## 👤 Author
+
+**[Sharon Nwajiaku]**  
+📧 1sharonbukky@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sharon-nwajiaku-2a22022b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://sharon-analytics.github.io/)
+
 
